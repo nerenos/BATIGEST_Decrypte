@@ -1,0 +1,6 @@
+C:\Users\nerenos\source\repos\MDE-RGM\MDE-RGM\bin\Release\MDE-RGM.dll
+C:\Users\nerenos\source\repos\MDE-RGM\MDE-RGM\bin\Release\MDE-RGM.pdb
+C:\Users\nerenos\source\repos\MDE-RGM\MDE-RGM\obj\Release\MDE-RGM.csprojAssemblyReference.cache
+C:\Users\nerenos\source\repos\MDE-RGM\MDE-RGM\obj\Release\MDE-RGM.csproj.CoreCompileInputs.cache
+C:\Users\nerenos\source\repos\MDE-RGM\MDE-RGM\obj\Release\MDE-RGM.dll
+C:\Users\nerenos\source\repos\MDE-RGM\MDE-RGM\obj\Release\MDE-RGM.pdb
